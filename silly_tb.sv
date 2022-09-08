@@ -22,6 +22,7 @@ module tb ();
    initial
      begin
     
+	     //force test each possible case of inputs. 
 	#0   a = 1'b0;	
 	#0   b = 1'b0;	
 	#0   c = 1'b0;
